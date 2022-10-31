@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/arcatuka/Todo/issues"
   },
-  "homepage": "https://github.com/arcatuka/Todo#readme"
+  "homepage": "https://github.com/arcatuka/Todo#readme",
+  "dependencies": {
+    "mongoose": "^6.7.0"
+  }
 }
